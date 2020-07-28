@@ -1,0 +1,14 @@
+Assignment
+#1 Write a Python program to get the Python version you are using. # just google about it
+#2 Write a Python program to display the current date and time
+#3 Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.
+#4 Write a Python program to accept a filename from the user and print the extension of that. 
+#5 Write a Python program to display the first and last colors from the following list. Go to the editor
+color_list = ["Red","Green","White" ,"Black"]
+#6 Find min and max of an list of integers
+#7 Find second min and second largest value of a list and their indexes also
+#8 wright a program to split a list into two sub list from the middle
+#9 wright a program to convert an string into list of characters
+#10 Try to sort an array if you can then try without sort method
+Submit it though your github repository and each file should be in their own branch
+oops there's spel mistakes
